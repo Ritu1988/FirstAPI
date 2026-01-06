@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Azure\\AzureCicd\\cicd\\cicd.csproj": {}
+    "C:\\RituStudy\\Azure\\AzureCicd\\cicd\\cicd.csproj": {}
   },
   "projects": {
-    "C:\\Azure\\AzureCicd\\cicd\\cicd.csproj": {
+    "C:\\RituStudy\\Azure\\AzureCicd\\cicd\\cicd.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Azure\\AzureCicd\\cicd\\cicd.csproj",
+        "projectUniqueName": "C:\\RituStudy\\Azure\\AzureCicd\\cicd\\cicd.csproj",
         "projectName": "cicd",
-        "projectPath": "C:\\Azure\\AzureCicd\\cicd\\cicd.csproj",
+        "projectPath": "C:\\RituStudy\\Azure\\AzureCicd\\cicd\\cicd.csproj",
         "packagesPath": "C:\\Users\\chabh\\.nuget\\packages\\",
-        "outputPath": "C:\\Azure\\AzureCicd\\cicd\\obj\\",
+        "outputPath": "C:\\RituStudy\\Azure\\AzureCicd\\cicd\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

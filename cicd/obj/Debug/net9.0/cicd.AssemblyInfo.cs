@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("cicd")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+57d898eeb5ef1eb27809f62875acfb3208112406")]
 [assembly: System.Reflection.AssemblyProductAttribute("cicd")]
 [assembly: System.Reflection.AssemblyTitleAttribute("cicd")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
